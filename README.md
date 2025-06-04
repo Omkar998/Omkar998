@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Advanced Deep Learning, LLM Fine-Tuning, Prompt Engineering, AI Agents**
 
-- 👯 I’m looking to collaborate on **Wildfire Risk Visualization Platform**
-
 - 👨‍💻 All of my projects are available at [https://github.com/Omkar998](https://github.com/Omkar998)
 
 - 💬 Ask me about **Prompt Engineering , ML , Data Science , Data Visualization Tools**
